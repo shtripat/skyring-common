@@ -1,0 +1,9 @@
+{
+    "defaultRole": "admin",
+    "roles": {
+        "tenantuser": 0,
+        "custom": 1,
+        "securityadmin": 2,
+        "admin": 3
+    }
+}
